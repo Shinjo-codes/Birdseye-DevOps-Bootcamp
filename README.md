@@ -22,10 +22,9 @@ This repository documents my journey into DevOps and Cloud Engineering, with pra
 - Spring Boot
 
 ## 📂 Repository Structure
-
 -`Fundamentals/` → Core pillars in DevOps
 - `Linux n Shell/` → Most popular Operating System for VMs
--`Git/` → Version control
+- `Git/` → Version control
 - `cloud/` → Cloud deployment setups
 - `ci-cd/` → Continuous Integration & Deployment pipelines
 - `docker/` → Containerization and Docker projects
