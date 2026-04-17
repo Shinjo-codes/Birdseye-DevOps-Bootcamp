@@ -43,4 +43,6 @@ Feel free to fork, learn, and contribute!
 
 ## 🔗 Connect
 
-Follow my journey on LinkedIn: [Your LinkedIn Link]
+Follow my journey on LinkedIn: [[Shina Ojo](https://www.linkedin.com/in/shina-ojo-2b780ab9/)]
+Follow my journey on Medium:   [[Shina Ojo](https://medium.com/@ojoshinajohnson)]
+
